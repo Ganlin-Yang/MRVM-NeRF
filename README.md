@@ -1,13 +1,14 @@
 # Mask-based modeling for Neural Radiance Fields (ICLR 2024)
 
-## [Paper]() | [Models]()
+## [Paper](https://arxiv.org/abs/2304.04962) | [Models](https://drive.google.com/drive/folders/16vpZwuKuK3NkHwir3zM_lyMdxbFFZ70z?usp=sharing)
 
-The code is expected to be open-sourced probably in March or April, 2024. Thanks for your interests and patience.
+The repository for two baselines: NeRFormer and NeuRay is located in folder [NeRFormer+MRVM](./NeRFormer+MRVM/) and folder [NeuRay+MRVM](./NeuRay+MRVM/) respectively.
+
+## Have Done 
+- Open-source the codes and models for [NeuRay+MRVM](./NeuRay+MRVM/) 
 
 ## Todo List 
-
-- Open-source the training and testing codes 
-- Open-source the models
+- Open-source the codes and models for [NeRFormer+MRVM](./NeRFormer+MRVM/)
 
 ## Citation
 ```
