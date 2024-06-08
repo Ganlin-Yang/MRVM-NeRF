@@ -1,14 +1,8 @@
-# Mask-based modeling for Neural Radiance Fields (ICLR 2024)
+# Mask-based modeling for Neural Radiance Fields (ICLR 2024 spotlight)
 
-## [Paper](https://arxiv.org/abs/2304.04962) | [Models](https://drive.google.com/drive/folders/16vpZwuKuK3NkHwir3zM_lyMdxbFFZ70z?usp=sharing)
+## [Paper](https://arxiv.org/abs/2304.04962) | [Models](https://drive.google.com/drive/folders/16vpZwuKuK3NkHwir3zM_lyMdxbFFZ70z?usp=sharing) | [Openreview](https://openreview.net/forum?id=SEiuSzlD1d)
 
-The repository for two baselines: NeRFormer and NeuRay is located in folder [NeRFormer+MRVM](./NeRFormer+MRVM/) and folder [NeuRay+MRVM](./NeuRay+MRVM/) respectively.
-
-## Have Done 
-- Open-source the codes and models for [NeuRay+MRVM](./NeuRay+MRVM/) 
-
-## Todo List 
-- Open-source the codes and models for [NeRFormer+MRVM](./NeRFormer+MRVM/)
+The repositories for two baselines: NeRFormer and NeuRay are located in folder [NeRFormer+MRVM](./NeRFormer+MRVM/) and folder [NeuRay+MRVM](./NeuRay+MRVM/) respectively.
 
 ## Citation
 ```
